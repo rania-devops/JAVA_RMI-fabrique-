@@ -1,5 +1,5 @@
 # Rapport :JAVA_RMI-fabrique-
--------->>> PARTIE 1:  Mise en Œuvre d'une Fabrique d'Inversion de Chaînes avec RMI
+-------->>> PARTIE 1:  **Mise en Œuvre d'une Fabrique d'Inversion de Chaînes avec RMI**
 
 Étape 1 : Définir l'Interface Distante (AppInterface.java):
 
